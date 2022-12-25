@@ -1,0 +1,78 @@
+button{
+  background-color: blue;
+  color: white;
+  border-color: blue;
+  font-size: 16px;
+  padding: 10px 25px;
+  border-radius: 5px;
+}
+ .t1{
+    padding-left: 5px;
+    color: rgb(112, 107, 107);
+  }
+  .table1{
+    margin-left: 25px;
+    width: 1195px;
+    height: 45px;
+    background-color: rgb(236, 230, 230);
+  }
+  .input{
+    font-size: 15px;
+    padding: 7px 20px;
+    border-radius: 5px;
+    background-color: blue; 
+    color: white;
+    border-color: blue;
+  }
+  .div1{
+       text-align: left;
+       padding-left:10%; 
+       padding-top: 15px; 
+  }
+  .div2{
+    text-align: right;
+    padding-right: 10%;
+  }
+  .c1{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: white ;
+   background-color: white;
+   background-image: url('https://images.pexels.com/photos/977736/pexels-photo-977736.jpeg?auto=compress&cs=tinysrgb&w=600');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 10cm;
+   width: 1195px;
+   margin: 25px;
+   margin-top: -0.35cm;
+  
+ 
+  }
+  section{
+    text-align: center;
+  }
+  .footer{
+    margin: 26px;
+    height: 235px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(236, 230, 230);
+    margin-top: -0.65cm;
+
+  }
+  .table2{
+    
+    border-spacing: 50px;
+    margin-bottom: -2cm;
+  }
+  td{
+    
+    padding-bottom: 5px;
+  }
+  i{
+    font-size:50px;
+    color: blue;
+  }
